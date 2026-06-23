@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cuerpo de ensueño
+
+This log tracks the cryptographic history and versioning for the song **Cuerpo de ensueño** (cuerpo-de-ensueno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T10:56:10.746181 | `v1` | `e1c720890d43a51e0dfb78e8c9fa2f2882b835c1bd15c58b7059d0314435b638` | `8317ad1c8fe22544ff26842083ba26cd34bbe503b03ecb2051d3991ea7953b1a` | `2026-06-23_cuerpo-de-ensueno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

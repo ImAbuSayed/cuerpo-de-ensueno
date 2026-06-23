@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-ensueno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Cuerpo de ensueño](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-ensueno/) |
+| **Get License** | [Official Music Licensing for Cuerpo de ensueño](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-ensueno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e1c720890d43a51e0dfb78e8c9fa2f2882b835c1bd15c58b7059d0314435b638` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
