@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cuerpo-de-ensueno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Cuerpo de ensueño](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-ensueno/) |
+| **Get License** | [Get a Licensing Quote for Cuerpo de ensueño](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cuerpo-de-ensueno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu mirada me llama cruzando la pista
+> Ese cuerpo de ensueño me tiene a la vista
+> Rompiendo la noche con tanta elegancia
+> Me acerco buscando sentir tu fragancia
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
